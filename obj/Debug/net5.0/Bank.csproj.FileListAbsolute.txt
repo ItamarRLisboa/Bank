@@ -1,0 +1,16 @@
+C:\Users\irlis\Documents\CSharp\ProjetoCSharp\Bank\bin\Debug\net5.0\Bank.exe
+C:\Users\irlis\Documents\CSharp\ProjetoCSharp\Bank\bin\Debug\net5.0\Bank.deps.json
+C:\Users\irlis\Documents\CSharp\ProjetoCSharp\Bank\bin\Debug\net5.0\Bank.runtimeconfig.json
+C:\Users\irlis\Documents\CSharp\ProjetoCSharp\Bank\bin\Debug\net5.0\Bank.runtimeconfig.dev.json
+C:\Users\irlis\Documents\CSharp\ProjetoCSharp\Bank\bin\Debug\net5.0\Bank.dll
+C:\Users\irlis\Documents\CSharp\ProjetoCSharp\Bank\bin\Debug\net5.0\ref\Bank.dll
+C:\Users\irlis\Documents\CSharp\ProjetoCSharp\Bank\bin\Debug\net5.0\Bank.pdb
+C:\Users\irlis\Documents\CSharp\ProjetoCSharp\Bank\obj\Debug\net5.0\Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irlis\Documents\CSharp\ProjetoCSharp\Bank\obj\Debug\net5.0\Bank.AssemblyInfoInputs.cache
+C:\Users\irlis\Documents\CSharp\ProjetoCSharp\Bank\obj\Debug\net5.0\Bank.AssemblyInfo.cs
+C:\Users\irlis\Documents\CSharp\ProjetoCSharp\Bank\obj\Debug\net5.0\Bank.csproj.CoreCompileInputs.cache
+C:\Users\irlis\Documents\CSharp\ProjetoCSharp\Bank\obj\Debug\net5.0\Bank.dll
+C:\Users\irlis\Documents\CSharp\ProjetoCSharp\Bank\obj\Debug\net5.0\ref\Bank.dll
+C:\Users\irlis\Documents\CSharp\ProjetoCSharp\Bank\obj\Debug\net5.0\Bank.pdb
+C:\Users\irlis\Documents\CSharp\ProjetoCSharp\Bank\obj\Debug\net5.0\Bank.genruntimeconfig.cache
+C:\Users\irlis\Documents\CSharp\ProjetoCSharp\Bank\obj\Debug\net5.0\Bank.csproj.AssemblyReference.cache
